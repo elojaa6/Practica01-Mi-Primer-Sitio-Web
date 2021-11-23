@@ -1,6 +1,6 @@
 # Practica01-Mi-Primer-Sitio-Web
 
-#Introduccion
+### Introduccion
 <p>
 El tema para la pagina fue la de una Abaceria, dando a conocer unos cuantos productos que se pueden solicitar, entre otras.
 </p>
