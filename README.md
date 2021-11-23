@@ -33,7 +33,7 @@ Ocho páginas en formato *.html secundarias con temas relacionados a la página 
 
  	 
 2. Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario moverse de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como las secundarias.
-3. 
+
 ![image](https://user-images.githubusercontent.com/78933180/143087326-791b4d41-1c60-42ee-8800-3e42b8723e5d.png)
 
 
@@ -42,7 +42,7 @@ Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá te
 	
 ![image](https://user-images.githubusercontent.com/78933180/143087366-c731cc4d-de47-49a2-95ab-fb928173db0f.png)
 
-4. Las páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y dos <aside>.
+4. Las páginas *.html deberán tener al menos dos etiquetas "section", dos "article" y dos "aside".
 	
 ![image](https://user-images.githubusercontent.com/78933180/143087394-d157cc08-188d-411e-a9e9-d79f2bbb5e30.png)
 
@@ -66,15 +66,18 @@ selectores por id.
  
 
 8. Luego, se pide que se personalicen estilos referente a texto tanto en color, tamaño, fuente, decoraciones, etc. Ver más, https://fonts.google.com/
+	
  ![image](https://user-images.githubusercontent.com/78933180/143087592-4edab9b5-f35c-41da-996b-2fab439f0bce.png)
 
 
 Asimismo, se pide que se personalice todos los hipervínculos usando pseudo-clases.
+	
 ![image](https://user-images.githubusercontent.com/78933180/143087618-ce657063-561d-4aa7-a7a4-e31fa60314c0.png)
 
  
 9. De igual manera, se pide crear una nueva página HTML, en donde, se muestre un formulario de contacto o crear cuenta que tenga campos como: nombre, mensaje y botón para enviar. Como se muestra en la Figura 4.
-	![image](https://user-images.githubusercontent.com/78933180/143087645-4b586944-cfe8-4ce6-824c-08d618bb434f.png)
+	
+![image](https://user-images.githubusercontent.com/78933180/143087645-4b586944-cfe8-4ce6-824c-08d618bb434f.png)
 
 
  
