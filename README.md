@@ -1,11 +1,11 @@
 # Practica01-Mi-Primer-Sitio-Web
 
-##Introduccion
+#Introduccion
 <p>
 El tema para la pagina fue la de una Abaceria, dando a conocer unos cuantos productos que se pueden solicitar, entre otras.
 </p>
 
-###Desarrollo
+#Desarrollo
 <ul>
 	<li>Para el desarrollo se utilizo código HTML5 y CSS.</li>
 	<p>Se crearon 8 paginas HTML y 5 CSS.
@@ -20,9 +20,9 @@ El tema para la pagina fue la de una Abaceria, dando a conocer unos cuantos prod
 	<li>Videos</li>
 </ul>
 
-###Desarrollo
+#Desarrollado
 <p>
-Desarrollado por Elvis Loja estudiante UPS.
+Por Elvis Loja estudiante UPS.
 Materia  PROGRAMACIÓN HIPERMEDIAL GRUPO - 1.
 </p>
 
