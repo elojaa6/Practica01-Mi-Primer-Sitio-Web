@@ -20,16 +20,11 @@ El tema para la pagina fue la de una Abaceria, dando a conocer unos cuantos prod
 	<li>Videos</li>
 </ul>
 
-
-
-FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
-CARRERA: Computación	ASIGNATURA: Programación Hipermedial
-NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA: Creación de sitio web usando HTML5 y CSS3
-OBJETIVO ALCANZADO:
+### OBJETIVO ALCANZADO:
 •	Entender y organizar de una mejor manera los sitios de web en Internet.
 •	Crear sitios web aplicando estándares actuales.
 •	Desarrollar aplicaciones web interactivas y amigables al usuario.
-ACTIVIDADES DESARROLLADAS
+### ACTIVIDADES DESARROLLADAS
 1. Una página principal denominada index.html
 Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas
 ![image](https://user-images.githubusercontent.com/78933180/143087213-f73072dc-2b6b-4a50-a61a-bc4f7cd53e63.png)
