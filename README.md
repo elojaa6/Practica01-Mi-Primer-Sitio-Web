@@ -27,19 +27,23 @@ El tema para la pagina fue la de una Abaceria, dando a conocer unos cuantos prod
 ### ACTIVIDADES DESARROLLADAS
 1. Una página principal denominada index.html
 Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas
+
 ![image](https://user-images.githubusercontent.com/78933180/143087213-f73072dc-2b6b-4a50-a61a-bc4f7cd53e63.png)
 ![image](https://user-images.githubusercontent.com/78933180/143087231-6e5eb7af-160b-4434-acd1-6f0b2d157d2f.png)
 
  	 
 2. Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario moverse de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como las secundarias.
+3. 
 ![image](https://user-images.githubusercontent.com/78933180/143087326-791b4d41-1c60-42ee-8800-3e42b8723e5d.png)
 
 
 3. Todas las páginas *.html deben tener una etiqueta <header> la cuál, deberá contener una imagen (logo) relacionada al tema elegido.
 Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados
-	![image](https://user-images.githubusercontent.com/78933180/143087366-c731cc4d-de47-49a2-95ab-fb928173db0f.png)
+	
+![image](https://user-images.githubusercontent.com/78933180/143087366-c731cc4d-de47-49a2-95ab-fb928173db0f.png)
 
 4. Las páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y dos <aside>.
+	
 ![image](https://user-images.githubusercontent.com/78933180/143087394-d157cc08-188d-411e-a9e9-d79f2bbb5e30.png)
 
  
