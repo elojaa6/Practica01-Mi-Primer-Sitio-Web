@@ -85,10 +85,12 @@ Asimismo, se pide que se personalice todos los hipervínculos usando pseudo-clas
 
 GitHub: elojaa6, https://github.com/elojaa6/Practica01-Mi-Primer-Sitio-Web
 
-RESULTADO(S) OBTENIDO(S):
+### RESULTADO(S) OBTENIDO(S):
 Se logro crear una página con los requisitos antes planteados, obteniendo los resultados esperados.
-CONCLUSIONES: Se uso lo visto en clase e información aprendida autónomamente referente al lenguaje HTML5 y CSS para el desarrollo de la página, verificando su funcionamiento en navegadores como: Brave y Edge dándonos conformidad en los resultados.
-RECOMENDACIONES: Verificar los nombres a las clases e id’s para poder manejar con efectividad en CSS.
+
+###CONCLUSIONES: Se uso lo visto en clase e información aprendida autónomamente referente al lenguaje HTML5 y CSS para el desarrollo de la página, verificando su funcionamiento en navegadores como: Brave y Edge dándonos conformidad en los resultados.
+
+###RECOMENDACIONES: Verificar los nombres a las clases e id’s para poder manejar con efectividad en CSS.
 
 
 ### Desarrollado
