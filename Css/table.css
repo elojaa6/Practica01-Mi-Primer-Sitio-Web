@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: 
+    linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../img/home.jpg);
+}
+
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
+}
+
+.table{
+    width: 99.9%;
+    border-collapse: collapse;
+    color: #fff;
+}
+
+.content{
+    width: 300px;
+    position: absolute;
+    top: 70%;
+    right: 300px;
+    transform: translateY(-50%);
+    text-align-last: center;
+    color: #fff;
+}
+
+#Mo, #Te{
+    color: palevioletred;
+}
+
+.table td, .table th{
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+    text-decoration: #ddd;
+}
+
+.video{
+    float: left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+.footer{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
+}
+
+.footer footer a:visited{
+    color: #fff;
+}
+

@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: 
+    linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../img/home.jpg);
+}
+
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
+}
+
+
+.content{
+    float: left;
+    width: calc(75% - 80px) ;
+    height: 1500px;     
+    padding-top: 20px;
+    padding-left: 60px;
+    margin: auto;
+    color: #fff;
+}
+
+.content article img{
+    float: left;
+    width: 250px;
+    height: 240px;
+    cursor: pointer;
+}
+
+.content{
+    margin: 10px 16px;
+}
+
+.content, .content > .column{
+    padding: 8px;
+}
+
+.column{
+    float: left;
+    width: 30%;
+}
+
+.content::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.article1{
+    background: rgba(0,0,0,0.4);
+    padding: 10px;
+}
+
+.show{
+    display: block;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: white;
+    cursor: pointer;
+    margin: 3px 60px;
+   
+}
+
+.btn a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #666;
+}
+  
+.btn:hover {
+    background-color: #ddd;
+}
+  
+.btn.active {
+    background-color: #666;
+    color: white;
+}
+
+.content1{
+    float: right;
+    width: calc(30% - 40px) ;
+    height: 1500px;
+    /*background-color: rgba(27%,38%,69%);*/
+    padding: 20px;
+    color: #fff;
+}
+
+.content1 article img{
+    float: left;
+    height: 320px;
+    width: 320px;
+    cursor: pointer;
+}
+
+.footer{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
+   margin-top: 50px;
+
+}
+
+.footer footer a:visited{
+    color: #fff;
+}
+
